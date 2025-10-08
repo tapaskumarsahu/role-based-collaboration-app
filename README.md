@@ -1,8 +1,6 @@
-# role-based-collaboration-app
-A MERN stack application enabling role-based access control for team collaboration, allowing users with different roles to manage tasks, projects, and communications securely.
 # TeamBoard – MERN Role-Based Collaboration App
 
-MERN stack app for team collaboration, project, and task management.
+A MERN stack application enabling role-based access control for team collaboration, allowing users with different roles to manage tasks, projects, and communications securely.
 
 ## Features
 - JWT authentication (access & refresh tokens)
